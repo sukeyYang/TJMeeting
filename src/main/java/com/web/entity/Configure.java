@@ -10,7 +10,7 @@ public class Configure {
     /**
      * 商户号
      */
-    public static final String mch_id = "1297867901";
+    public static final String mch_id = "";
 
     /**
      * APPID

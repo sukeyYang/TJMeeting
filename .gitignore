@@ -7,4 +7,4 @@ POJOUtil.java
 POJOUtil
 setting.properties
 classes
-src/main/resources/*
+src/main/resources/spring-common.xml
