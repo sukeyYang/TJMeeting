@@ -1,0 +1,11 @@
+.loader {
+  height: 30px;
+  background-image: url("../images/arrow_loader.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  clear: both;
+  margin-bottom: 30px;
+  filter: alpha(opacity=50);
+  opacity: .5;
+}
